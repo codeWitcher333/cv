@@ -127,8 +127,11 @@ skills:
       - name: MySQL & Big Query
         level: 85%
 
-      - name: Python
+      - name: React
         level: 60%
+        
+      - name: Python
+        level: 40%
 
 footer: >
 
