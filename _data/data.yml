@@ -62,17 +62,20 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
+            - Programing skills in C++, SQL, R Studio, Statistica
             - Computational Methods and Their Computer Implementation
             - Database Systems
             - English Language Specialist Course
             - Mathematical Statistics
             - Discrete models of financial markets
             - Risk Theory
-            - Numerical Analysis 2
+            - Numerical Analysis
     - degree: BSc in Applied Mathematics
       university: AGH University of Science and Technology
       time: 2012 - 2015
       details: |
+            - Strong analytical thinking and skills for data analysis and interpretation
+            - Programming skillls in C++
             - Algebra and Mathematical analysis
             - Languages of Programming
             - Theory of Algorithms
@@ -118,32 +121,6 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
 skills:
     title: Skills &amp; Proficiency
