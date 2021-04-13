@@ -86,14 +86,14 @@ experiences:
       company: IBM (Google Project), Kraków
       details: |
         - Google Systems Admin - systems maintenance & administration, technical support for Google Payroll Department (fixing bugs and errors, UAT)
-        - Automation of complex business processes for Google Payroll Department using tailored technologies ( Google Apps Script, VBA, Javascript, HTML/CSS, SQL and other )
-        - Building Web Apps - Google App Script applications (building interactive websites with user-friendly interface, gathering data from Big Query tables, sending emails, triggering events etc.)
-        - Developing complex business rules and validations using JEXL (Java Expression Language)
-        - Extensive use of Regular Expressions e.g. to extract and validate payslip data
-        - Design of solutions, meeting with clients and gathering client-specific requirements
+        - Automation of complex business processes for Google Payroll Department using tailored technologies (i.a. Google Apps Script, VBA, JS, HTML/CSS, SQL)
+        - Building Web Apps and interactive websites with user-friendly interface
+        - Developing complex business rules and validations using JEXL and Regexes
+        - Design of solutions, meeting with clients and gathering requirements
         - Refactoring existing applications to improve code readability and performance
-        - Creating reports using BigQuery tables (Standard or Legacy SQL)
+        - Creating reports using BigQuery tables (Standard and Legacy SQL)
         - Delivering and maintaining projects documentation
+        - Leading trainings for new EEs
         - Projects management in the Agile methodology
     - role: Technical Business Analyst
       time: 08.2018 - 03.2020
