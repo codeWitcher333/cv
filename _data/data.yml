@@ -63,19 +63,23 @@ Mathematics, Actuarial Mathematics)
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            - Computational Methods and Their Computer Implementation
+            - Database Systems
+            - English Language Specialist Course
+            - Mathematical Statistics
+            - Discrete models of financial markets
+            - Risk Theory
+            - Numerical Analysis 2
     - degree: BSc in Applied Mathematics
       university: AGH University of Science and Technology
       time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+            - Algebra and Mathematical analysis
+            - Languages of Programming
+            - Theory of Algorithms
+            - Probability Theory and Statistics
+            - Numerical Analysis
+            - Cryptography
 experiences:
     - role: Lead Developer
       time: 2015 - Present
