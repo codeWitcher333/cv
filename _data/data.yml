@@ -123,6 +123,9 @@ skills:
 
       - name: HTML5 & CSS
         level: 90%
+        
+      - name: JEXL & REGEX
+        level: 90%
 
       - name: MySQL & Big Query
         level: 85%
