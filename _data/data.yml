@@ -42,6 +42,9 @@ sidebar:
 
       - item: Mathematics
         link:
+        
+      - item: New Technologies
+        link:
 
 career-profile:
     title: Career Profile
@@ -53,7 +56,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Applied Mathematics  Specialties: Computer and Computational Mathematics, Actuarial Mathematics
+    - degree: MSc in Applied Mathematics with Specialties: Computer and Computational Mathematics, Actuarial Mathematics
       university: AGH University of Science and Technology in Cracow
       time: 2015 - 2017
       details:
@@ -78,9 +81,9 @@ education:
             - Numerical Analysis
             - Cryptography
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Application Developer / Senior Technical Business Analyst
+      time: 03.2020 - Present
+      company: IBM (Google Project), Kraków
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,9 +96,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Technical Business Analyst
+      time: 08.2018 - 03.2020
+      company: IBM (Google Project), Kraków
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,17 +107,13 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+    - role: Independent Financial Adviser
       time: 2012 - 2014
-      company: Amazon, London
+      company: Phinance S.A., Kraków
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - making appointments with clients to determine their expenses, income, insurance coverage, financial objectives, tax status, risk tolerance or other information needed to develop a plan for their short-term and long-term financial goals
+        - building and maintaining base of clients
+        - market research and analysis
 projects:
 publications:
 skills:
