@@ -53,10 +53,10 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Applied Mathematics - Computer and Computational Mathematics, Actuarial Mathematics
+    - degree: MSc in Applied Mathematics  Computer and Computational Mathematics, Actuarial Mathematics
       university: AGH University of Science and Technology in Cracow
       time: 2015 - 2017
-      details: >
+      details:
             - Programing skills in C++, SQL, R Studio, Statistica
             - Computational Methods and Their Computer Implementation
             - Database Systems
@@ -68,7 +68,7 @@ education:
     - degree: BSc in Applied Mathematics
       university: AGH University of Science and Technology
       time: 2012 - 2015
-      details: |
+      details:
             - Strong analytical thinking and skills for data analysis and interpretation
             - Programming skillls in C++
             - Algebra and Mathematical analysis
