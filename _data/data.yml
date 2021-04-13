@@ -96,7 +96,11 @@ experiences:
         - Leading trainings for new EEs
         - Projects management in the Agile methodology
     - role: Technical Business Analyst
-      time: 08.2018 - 03.2020
+      time: 03.2019 - 02.2020
+      company: IBM (Google Project), Kraków
+      details: |
+    - role: Junior Technical Business Analyst
+      time: 08.2018 - 02.2019
       company: IBM (Google Project), Kraków
       details: |
     - role: Independent Financial Adviser
@@ -104,7 +108,7 @@ experiences:
       company: Phinance S.A., Kraków
       details: |
         - making appointments with clients to determine their expenses, income, insurance coverage, financial objectives, tax status, risk tolerance or other information needed to develop a plan for their short-term and long-term financial goals
-        - building and maintaining base of clients
+        - building and maintaining database of clients
         - market research and analysis
 projects:
 publications:
