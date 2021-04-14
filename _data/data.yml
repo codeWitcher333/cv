@@ -84,7 +84,7 @@ experiences:
       company: IBM (Google Project), Kraków
       details: |
         - Google Systems Admin - systems maintenance & administration, technical support for Google Payroll Department (fixing bugs and errors, UAT)
-        - Automation of complex business processes using tailored technologies 
+        - Automation of complex business processes using tailored technologies \n
         i.a. Google Apps Script, VBA, JS, HTML/CSS, SQL
         - Building Web Apps and interactive websites with user-friendly interface
         - Developing complex business rules and validations using JEXL and Regexes
