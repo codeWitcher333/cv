@@ -25,7 +25,10 @@ sidebar:
     stack-overflow:
     codewars:
     goodreads: 
-
+    
+    awards:
+      - item: 1st prize in Javascript Hackathon - ComeCode@NetEnt
+        link:  
     languages:
       - idiom: Polish
         level: Native
