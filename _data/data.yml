@@ -124,15 +124,17 @@ skills:
 
       - name: VBA
         level: 98%
-
+        
+      - name: JEXL & REGEX
+        level: 98%
+        
       - name: Javascript & jQuery
         level: 98%
 
       - name: HTML5 & CSS
         level: 90%
         
-      - name: JEXL & REGEX
-        level: 90%
+
 
       - name: MySQL & Big Query
         level: 85%
